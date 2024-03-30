@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working as Product Engineer @LTIMINDTREE on Java ,Spring Boot, Microservices.
+- 🔭 I’m currently working as Backend Engineer @Backbase on Java ,Spring Boot, Microservices.
 
 
 ---
